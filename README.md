@@ -22,8 +22,8 @@
 
 <br>
 <br>
-  <br>
+<br>
 
-| ![Pavel's github stats](https://github-readme-stats.vercel.app/api?username=paulus-f&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulus-f&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulus-f&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=paulus-f&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulus-f&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulus-f&theme=tokyonight)
